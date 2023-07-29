@@ -1,0 +1,44 @@
+* {
+    font-family: monospace;
+}
+
+body{
+    background-color: #EFD8B0;
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container{
+    border-style: solid;
+    width: 60%;
+    margin: auto;
+    
+}
+
+img, .caption-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    font-style: italic;
+}
+
+h2, .tip, .reference{
+    margin-left: 15px;
+}
+
+
+li, .reference{
+    line-height: 25px;
+}
+
+.reference{
+    text-decoration: none;
+    color: darkred;
+    font-size: 17px;
+}
