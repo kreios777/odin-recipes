@@ -1,0 +1,36 @@
+* {
+    font-family: monospace;
+}
+
+body{
+    background-color: #EFD8B0;
+}
+
+h1, ul{
+    line-height: 25px;
+    text-align: center;
+}
+
+
+.container{
+    border-style: solid;
+    width: 30%;
+    margin: auto;
+    
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+    font-size: 17px;
+}
+
+ul{
+    list-style-position: inside;
+    margin-left: 0;
+}
+
+li{
+    padding-left: px;
+}
+
